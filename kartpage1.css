@@ -1,0 +1,298 @@
+body {
+    margin:0;
+    background-color: white;
+} 
+.container-1 {
+    background-color: #c0c0c0;
+    margin:auto;
+}
+
+.row-11 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box-1 {
+    width: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
+    text-align: center;
+    margin:auto;
+
+}
+.box-1 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    
+}
+
+.box-1 hr {
+    border-top: 2px solid #000000;
+}
+.box-2 {
+    width: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
+    text-align: center;
+    margin:auto;
+
+}
+.box-2 hr {
+    border-top: 1.5px solid #7a7a7a;
+}
+.box-2 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    letter-spacing: 1px;
+    color: grey;
+    
+}
+/* For the Next section 2 of the box*/
+.container-2 {
+    margin:5px;
+}
+
+.box-3 {
+    width: 56%;
+    margin-left: 80px;
+    margin-top: 50px;
+    
+}
+.box-3 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 1.3px;
+    color: grey;
+}
+.box-4 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 1.3px;
+    color: grey;
+}
+.box-4 {
+    width: 20%;
+    margin-left: 172px;
+    margin-top: 50px;
+    
+}
+/* for the next section 3 */
+.container-3 {
+    margin-top: 5px;
+
+}
+
+
+.box-5 {
+    width: 56%;
+    margin-left: 80px;
+    letter-spacing: 1px;
+    line-height: 0.25px;
+
+}
+
+
+.box-5-img {
+    width: 10%;
+
+}
+
+.box-5-img img {
+    width: 100%;
+}
+
+.box-5-txt {
+    width: 80%;
+    margin-left: 5px;
+}
+.box-5-txt h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+}
+.box-5-txt h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.6px;
+
+}
+.box-5-txt h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    min-height: fit-content;
+}
+.side{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: right;
+    height: 25px;
+}
+
+.box-6 {
+    width: 20%;
+    margin-left: 172px;
+    margin-top: 10px;
+    
+}
+.box-6 h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.3px;
+    text-decoration-color: #606060;
+    margin-bottom: 20px;
+
+    
+}
+.box-6 p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.3px;
+    text-decoration-color: #606060;
+    word-spacing: 58px;
+
+    
+}
+.box-6 h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.3px;
+    text-decoration-color: #606060;
+    margin-top: 30px;
+    word-spacing: 63px;
+    
+}
+/*Working on 3rd section*/
+.container-4 {
+
+}
+.box-7 {
+    width: 56%;
+    margin-left: 80px;
+    letter-spacing: 1px;
+    line-height: 0.25px;
+
+}
+.next {
+    background-color: #606060;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+.box-7 a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 170px ;
+}
+
+.box-7 a:hover {
+    background-color: #ebebeb;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+/*working on the blank space in the program*/
+.blank-container-1 {
+    margin:auto;
+    height: 500px;
+}
+.blank-container-2 {
+    margin:auto;
+    height: 75px;
+}
+/*footer section of the program*/
+.footer-container-1 {
+    margin:auto;
+}
+
+.footer-box-1 {
+    width: 23%;
+    margin-left:0px ;
+
+}
+.footer-box-1 img{
+    width: 60%;
+    margin-left:60px ;
+    margin-top: 50px;
+
+}
+.footer-box-1 h6{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    margin-left: 60px;
+    text-decoration-color: #606060;
+    margin-top: 2px;
+}
+.footer-box-2 {
+    width: 19%;
+    margin-left:0px ;
+}
+.footer-box-2 h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font: bold;
+    font-size: 16px;
+    text-decoration-color: #606060;
+    line-height: 1.6px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    margin-left: 80px;
+}
+
+.footer-box-2 a:link{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: none;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
+.footer-box-2 a:hover{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: underline #d6d6d6;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
+.footer-box-2 a :active{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: underline #d6d6d6;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
+.footer-box-2 a{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: none;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}

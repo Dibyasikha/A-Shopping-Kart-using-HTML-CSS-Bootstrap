@@ -1,0 +1,370 @@
+body {
+    margin:0;
+    background-color: white;
+} 
+.container-1 {
+    background-color: #c0c0c0;
+    margin:auto;
+}
+
+.row-11 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box-1 {
+    width: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
+    text-align: center;
+    margin:auto;
+
+}
+.box-1 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    
+}
+
+.box-1 hr {
+    border-top: 2px solid #000000;
+}
+.box-2 {
+    width: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 25px;
+    text-align: center;
+    margin:auto;
+
+}
+.box-2 hr {
+    border-top: 1.5px solid #7a7a7a;
+}
+.box-2 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    letter-spacing: 1px;
+    color: grey;
+    
+}
+/*working on the blank space in the program*/
+.blank-container-1 {
+    margin:auto;
+    height: 500px;
+}
+.blank-container-2 {
+    margin:auto;
+    height: 75px;
+}
+/* For the Next section 2 of the box*/
+.container-2 {
+    margin:5px;
+}
+
+.box-3 {
+    width: 56%;
+    margin-left: 80px;
+    margin-top: 50px;
+    
+}
+.box-3 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 1.3px;
+    color: grey;
+}
+.box-4 h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 1.3px;
+    color: grey;
+}
+.box-4 {
+    width: 20%;
+    margin-left: 172px;
+    margin-top: 50px;
+    
+}
+/* for the next section 3 */
+.container-3 {
+    margin-top: 5px;
+
+}
+
+
+.box-5 {
+    width: 56%;
+    margin-left: 80px;
+    letter-spacing: 1px;
+    line-height: 0.25px;
+
+}
+.box-5 h1 {
+    margin-top: 10px;
+
+}
+
+
+
+.ship{
+    width: 99%;
+    height: 200px;
+    padding: 4px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    margin-left: 5px;
+    background-color: #ebebeb;
+    border: 1px solid #606060;
+
+}
+.big-line{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    width: 82%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    padding: 4px;
+    border: 1px solid black;
+
+}
+.small-line{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    width: 50%;
+    padding: 4px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    border: 1px solid black;
+
+
+}
+.very-small-line{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    width: 12.75%;
+    padding: 4px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-size: 18px;
+    border: 1px solid black;
+
+
+}
+
+
+.ship h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size :18px;
+    text-align: left;
+    margin-left: 70px;
+}
+.ship h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size :14px;
+    text-align: left;
+    margin-left: 70px;
+    line-height-step: 1.6px;
+}
+
+.box-7 {
+    width: 20%;
+    margin-left: 172px;
+    margin-top: 10px;
+}
+
+
+.box-6 {
+    width: 100%;
+    height: 150px;
+}
+
+.box-6-img {
+    width: 20%;
+    margin-top: 7px;
+
+}
+
+.box-6-img img {
+    width: 100%;
+}
+
+.box-6-txt {
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 7px;
+
+}
+.box-6-txt h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.box-6-txt h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+.middle{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.3px;
+    color: #606060;
+    outline: none;
+}
+.box-8 {
+    width: 99%;
+    
+}
+
+.box-8 p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.3px;
+    text-decoration-color: #606060;
+    word-spacing: 58px;
+
+    
+}
+.box-8 h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.3px;
+    text-decoration-color: #606060;
+    margin-top: 30px;
+    word-spacing: 63px;
+    
+}
+/*Working on 3rd section*/
+.container-4 {
+
+}
+.box-9 {
+    width: 56%;
+    margin-left: 80px;
+    letter-spacing: 1px;
+    line-height: 0.25px;
+
+}
+.next {
+    background-color: #606060;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+.box-9 a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 170px ;
+}
+
+.box-9 a:hover {
+    background-color: #ebebeb;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+
+
+/*footer section of the program*/
+.footer-container-1 {
+    margin:auto;
+}
+
+.footer-box-1 {
+    width: 23%;
+    margin-left:0px ;
+
+}
+.footer-box-1 img{
+    width: 60%;
+    margin-left:60px ;
+    margin-top: 50px;
+
+}
+.footer-box-1 h6{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    margin-left: 60px;
+    text-decoration-color: #606060;
+    margin-top: 2px;
+}
+.footer-box-2 {
+    width: 19%;
+    margin-left:0px ;
+}
+.footer-box-2 h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font: bold;
+    font-size: 16px;
+    text-decoration-color: #606060;
+    line-height: 1.6px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    margin-left: 80px;
+}
+
+.footer-box-2 a:link{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: none;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
+.footer-box-2 a:hover{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: underline #d6d6d6;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
+.footer-box-2 a :active{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: underline #d6d6d6;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
+.footer-box-2 a{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 1px;
+    text-decoration: none;
+    color: black;
+    line-height: 40px;
+    margin-left: 80px;
+}
